@@ -1,6 +1,6 @@
 # Concatenador/Mergeador de Arquivos PDF
 
-Este projeto eu fiz para uso pessoal pra poder mergear vários pdfs que 
+Fiz esse projeto para uso pessoal pra poder mergear vários pdfs que 
 eu queria imprimir em um único arquivo para os meus estudos do enem. No fim foi uma experiência legal 
 e eu consegui aplicar vários conceitos de clean code, tratamento de erros e override.
 
